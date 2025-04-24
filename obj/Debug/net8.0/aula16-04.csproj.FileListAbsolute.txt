@@ -1,0 +1,14 @@
+C:\Users\2024102060004\Documents\POO\aula16-04\obj\Debug\net8.0\aula16-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2024102060004\Documents\POO\aula16-04\obj\Debug\net8.0\aula16-04.AssemblyInfoInputs.cache
+C:\Users\2024102060004\Documents\POO\aula16-04\obj\Debug\net8.0\aula16-04.AssemblyInfo.cs
+C:\Users\2024102060004\Documents\POO\aula16-04\obj\Debug\net8.0\aula16-04.csproj.CoreCompileInputs.cache
+C:\Users\2024102060004\Documents\POO\aula16-04\bin\Debug\net8.0\aula16-04.exe
+C:\Users\2024102060004\Documents\POO\aula16-04\bin\Debug\net8.0\aula16-04.deps.json
+C:\Users\2024102060004\Documents\POO\aula16-04\bin\Debug\net8.0\aula16-04.runtimeconfig.json
+C:\Users\2024102060004\Documents\POO\aula16-04\bin\Debug\net8.0\aula16-04.dll
+C:\Users\2024102060004\Documents\POO\aula16-04\bin\Debug\net8.0\aula16-04.pdb
+C:\Users\2024102060004\Documents\POO\aula16-04\obj\Debug\net8.0\aula16-04.dll
+C:\Users\2024102060004\Documents\POO\aula16-04\obj\Debug\net8.0\refint\aula16-04.dll
+C:\Users\2024102060004\Documents\POO\aula16-04\obj\Debug\net8.0\aula16-04.pdb
+C:\Users\2024102060004\Documents\POO\aula16-04\obj\Debug\net8.0\aula16-04.genruntimeconfig.cache
+C:\Users\2024102060004\Documents\POO\aula16-04\obj\Debug\net8.0\ref\aula16-04.dll
