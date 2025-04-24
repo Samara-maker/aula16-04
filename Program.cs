@@ -1,6 +1,7 @@
 ﻿
 
 using System;
+using System.Reflection.PortableExecutable;
 using System.Security.Cryptography;
 using aula16_04;
 using static System.Net.Mime.MediaTypeNames;
@@ -50,7 +51,20 @@ using static System.Net.Mime.MediaTypeNames;
 //        teste = false;
 //}
 
+try
+{
+    Conta con = new Conta();
+    con.Deposito(-10);
 
+}
+catch(Exception ex)
+{
+    Console.WriteLine(ex.Message);
+}
+finally
+{
+
+}
 
 List<Conta> lconta = new List<Conta>();
 

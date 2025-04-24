@@ -23,7 +23,7 @@ namespace aula16_04
                 Saldo += valor;
 
             }else
-                Console.WriteLine("Valor invalido");
+               throw new Exception("Valor invalido");
         }
 
 
