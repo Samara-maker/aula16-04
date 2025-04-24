@@ -35,7 +35,7 @@ namespace aula16_04
                 Saldo -= valor2;
            }
            else
-                Console.WriteLine("Valor inválido");
+                Console.WriteLine("Valor inválido... tente novamente");
             
         }
 
