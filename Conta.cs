@@ -1,5 +1,6 @@
 ﻿
 
+using System.Security.Cryptography.X509Certificates;
 using System.Xml;
 
 namespace aula16_04
@@ -14,6 +15,21 @@ namespace aula16_04
         public double Saldo;
 
 
+        public Conta()
+        {
+
+        }
+
+        public Conta (int Id, string Agencia, int NuConta, string NomeProprietario, double Saldo)
+        {
+            this.Id = Id;
+            this.Agencia = Agencia;
+            this.NuConta = NuConta;
+            this.NomeProprietario = NomeProprietario;
+            this.Saldo = Saldo;
+        }
+
+
         public void Deposito(double valor)
         {
 
@@ -24,6 +40,8 @@ namespace aula16_04
 
             }else
                throw new Exception("Valor invalido");
+
+
         }
 
 
